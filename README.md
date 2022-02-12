@@ -28,10 +28,8 @@ xdn run
 
 ## Deploying to Moovweb XDN
 
-First, sign up for a free account on the [Moovweb XDN](https://moovweb.app/signup)
-
 Then run the following to deploy your site:
 
 ```
-xdn deploy --team=<my team here>
+
 ```
